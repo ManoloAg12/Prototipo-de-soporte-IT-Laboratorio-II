@@ -1,0 +1,58 @@
+{
+  "usuarios": [
+    {
+      "username": "manolo",
+      "password": "uma2026",
+      "nombre": "Manolo Vargas",
+      "rol": "admin"
+    },
+    {
+      "username": "estudiante",
+      "password": "123",
+      "nombre": "Estudiante de Prueba",
+      "rol": "usuario"
+    },
+    {
+      "username": "cindy",
+      "password": "uma2026",
+      "nombre": "Cindy Bernardino",
+      "rol": "usuario"
+    },
+    {
+      "username": "jose",
+      "password": "uma2026",
+      "nombre": "José Roberto Castaneda",
+      "rol": "usuario"
+    },
+    {
+      "username": "david",
+      "password": "uma2026",
+      "nombre": "David López",
+      "rol": "usuario"
+    },
+    {
+      "username": "william",
+      "password": "uma2026",
+      "nombre": "William Majico",
+      "rol": "usuario"
+    },
+    {
+      "username": "leandro",
+      "password": "uma2026",
+      "nombre": "Leandro Melara",
+      "rol": "usuario"
+    },
+    {
+      "username": "manuel",
+      "password": "uma2026",
+      "nombre": "Fernando Manuel Palacios",
+      "rol": "usuario"
+    },
+    {
+      "username": "herberth",
+      "password": "uma2026",
+      "nombre": "Ing. Herberth Contreras",
+      "rol": "admin"
+    }
+  ]
+}
